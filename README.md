@@ -5,13 +5,11 @@
 
 <p  align="left"> <img  src="https://komarev.com/ghpvc/?username=tranphuongdinh&label=Profile%20views&color=129e00&style=plastic"  alt="tranphuongdinh" /> </p>  
 
-- 👨‍💻 Check out my portfolio at **https://tranphuongdinh.github.io/dinhtran/**
-
-- 📫 How to reach me **dinhblade123@gmail.com**
+- 📫 How to reach me **linkedin.com/in/dinh-tran-phuong**
 
 <a href="https://icons8.com/icon/118501/facebook"></a>
 <h3  align="left">Connect with me:</h3>
-<p align="left"><a  href="https://www.facebook.com/DinhRamos.IClow/"  target="blank"><img src="https://img.icons8.com/nolan/64/facebook-new.png"/></a>&nbsp;<a  href="https://www.youtube.com/channel/UCRvegrzTa8Lof_PE0YxRhew"  target="blank"><img src="https://img.icons8.com/nolan/64/youtube-play.png"/></a>
+<p align="left"><a  href="https://www.facebook.com/tranphuongdinh.206/"  target="blank"><img src="https://img.icons8.com/nolan/64/facebook-new.png"/></a>&nbsp;<a  href="https://www.youtube.com/@tranphuongdinh.206"  target="blank"><img src="https://img.icons8.com/nolan/64/youtube-play.png"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
