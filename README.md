@@ -5,7 +5,7 @@
 
 <p  align="left"> <img  src="https://komarev.com/ghpvc/?username=tranphuongdinh&label=Profile%20views&color=129e00&style=plastic"  alt="tranphuongdinh" /> </p>  
 
-- 📫 How to reach me **linkedin.com/in/dinh-tran-phuong**
+- 📫 How to reach me: **tpdinh.2001@gmail.com**
 
 <a href="https://icons8.com/icon/118501/facebook"></a>
 <h3  align="left">Connect with me:</h3>
